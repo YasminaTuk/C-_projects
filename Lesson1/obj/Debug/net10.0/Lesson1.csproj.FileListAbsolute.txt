@@ -1,0 +1,14 @@
+C:\C#_projects\Lesson1\bin\Debug\net10.0\Lesson1.exe
+C:\C#_projects\Lesson1\bin\Debug\net10.0\Lesson1.deps.json
+C:\C#_projects\Lesson1\bin\Debug\net10.0\Lesson1.runtimeconfig.json
+C:\C#_projects\Lesson1\bin\Debug\net10.0\Lesson1.dll
+C:\C#_projects\Lesson1\bin\Debug\net10.0\Lesson1.pdb
+C:\C#_projects\Lesson1\obj\Debug\net10.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_projects\Lesson1\obj\Debug\net10.0\Lesson1.AssemblyInfoInputs.cache
+C:\C#_projects\Lesson1\obj\Debug\net10.0\Lesson1.AssemblyInfo.cs
+C:\C#_projects\Lesson1\obj\Debug\net10.0\Lesson1.csproj.CoreCompileInputs.cache
+C:\C#_projects\Lesson1\obj\Debug\net10.0\Lesson1.dll
+C:\C#_projects\Lesson1\obj\Debug\net10.0\refint\Lesson1.dll
+C:\C#_projects\Lesson1\obj\Debug\net10.0\Lesson1.pdb
+C:\C#_projects\Lesson1\obj\Debug\net10.0\Lesson1.genruntimeconfig.cache
+C:\C#_projects\Lesson1\obj\Debug\net10.0\ref\Lesson1.dll
